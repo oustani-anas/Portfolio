@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1a2034; /* Changed from #282c34 to darker blue */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #70a8f0; /* Changed from #61dafb to match your new blue scheme */
 }
 
 @keyframes App-logo-spin {
