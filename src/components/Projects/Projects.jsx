@@ -29,6 +29,7 @@ function Projects() {
               imgPath={ticket}
               title="Smart Ticket System"
               description="Currently working on a Smart System Ticketing project as part of my internship. The system is designed to streamline support ticket management by enabling efficient issue tracking, assignment, and resolution. It leverages modern web technologies to provide a user-friendly interface for both users and administrators."
+              ghLink="https://github.com/oustani-anas/Smart_ticket_System"
             />
           </Col>
 
@@ -38,7 +39,7 @@ function Projects() {
   
               title="Ft_transendence (team)"
               description="Developed a real-time multiplayer Pong web application with a user-friendly interface as part of a team. The project featured secure authentication, user profile management, and a chat system for seamless communication. Leveraged Docker Compose to efficiently orchestrate the frontend (Next.js), backend (Nest.js), and database (PostgreSQL)."
-              ghLink="https://github.com/oustani-anas"
+              ghLink="https://github.com/sharrach/Ft_Transcendence"
             />
           </Col>
 
@@ -65,7 +66,7 @@ function Projects() {
               imgPath={bash}
               title="MiniShell (team)"
               description="Developed Minishell, a custom command-line interpreter in C. This project involved parsing user input, managing processes (fork, execve), and implementing core shell features like I/O redirection (<, >, <<, >>), pipes (|), signal handling (Ctrl+C), environment variable expansion, and essential built-in commands (cd, echo, exit, etc.)."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/oustani-anas/minish.git"
             />
           </Col>
 
